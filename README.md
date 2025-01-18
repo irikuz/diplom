@@ -58,7 +58,7 @@
 1. **Клонируйте проект с GitHub:**
 
    ```bash
-   git clone https://github.com/ваш_проект.git
+   git clone https://github.com/ваш_проект.git](https://github.com/irikuz/diplom.git
    ```
 
 2. **Создайте виртуальное окружение:**
